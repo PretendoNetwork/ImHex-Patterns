@@ -1,5 +1,5 @@
-// BOSS data for Tomodachi Life
-
+#pragma author PretendoNetwork
+#pragma description BOSS data for Tomodachi Life
 #pragma endian little
 
 struct TomodachiLifeData {

@@ -1,5 +1,5 @@
-// BOSS data for Nintendo Badge Arcade - playinfo
-
+#pragma author PretendoNetwork
+#pragma description BOSS data for Nintendo Badge Arcade - playinfo
 #pragma endian little
 
 struct PlayInfoRotation {
